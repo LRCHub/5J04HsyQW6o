@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "lili.",
+  "base_artist": "有機酸",
+  "createdAt": "2026-02-08T10:41:40.963852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Ass Intro (ft. BJ The Chicago Kid, Lili K., Kiara Lanier, Peter Cottontale, Will for the O'mys, & JP Floydd for Kids These Days)",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/01_Good_Ass_Intro_(ft._BJ_The_Chicago_Kid,_Lili_K.,_Kiara_Lanier,_Peter_Cottontale,_Chance_The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pusha Man (ft. Nate Fox & Lili K.)",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/02_Pusha_Man_(ft._Nate_Fox_&_Lili_K.)_Chance_The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lili Marleen",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/03_Lili_Marleen_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lili marlene",
+      "artist": "Andrea Mirò",
+      "has_synced": false,
+      "path": "select/04_Lili_marlene_Andrea_Mirò.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "No Deliveries List (feat. Lili De La Mora)",
+      "artist": "Styrofoam",
+      "has_synced": false,
+      "path": "select/05_No_Deliveries_List_(feat._Lili_De_La_Mora)_Styrofoam.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lili",
+      "artist": "Joan Sebastian",
+      "has_synced": true,
+      "path": "select/06_Lili_Joan_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mad World (feat. K.J. Apa, Camila Mendes & Lili Reinhart)",
+      "artist": "Riverdale Cast feat. KJ Apa, Camila Mendes & Lili Reinhart",
+      "has_synced": true,
+      "path": "select/07_Mad_World_(feat._K.J._Apa,_Camila_Mendes_&_Lili_Reinhart)_Riverdale_Cast_feat._KJ_Apa,_Camila_Mendes_&_Lili_Reinhart.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mad World (feat. K.J. Apa, Camila Mendes & Lili Reinhart)",
+      "artist": "Riverdale Cast;K.J. Apa;Camila Mendes;Lili Reinhart",
+      "has_synced": true,
+      "path": "select/08_Mad_World_(feat._K.J._Apa,_Camila_Mendes_&_Lili_Reinhart)_Riverdale_Cast;K.J._Apa;Camila_Mendes;Lili_Reinhart.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ya Lili",
+      "artist": "Balti feat. Hamouda",
+      "has_synced": true,
+      "path": "select/09_Ya_Lili_Balti_feat._Hamouda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ya Lili",
+      "artist": "Balti, Hamouda",
+      "has_synced": true,
+      "path": "select/10_Ya_Lili_Balti,_Hamouda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lili Marlene",
+      "artist": "Lale Andersen",
+      "has_synced": true,
+      "path": "select/11_Lili_Marlene_Lale_Andersen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lili Marlene",
+      "artist": "Lale Anderson",
+      "has_synced": true,
+      "path": "select/12_Lili_Marlene_Lale_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jesu, Joy Of Man's Desiring (feat. Lili Haydn)",
+      "artist": "Josh Groban feat. Lili Haydn",
+      "has_synced": true,
+      "path": "select/13_Jesu,_Joy_Of_Man's_Desiring_(feat._Lili_Haydn)_Josh_Groban_feat._Lili_Haydn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jesu, Joy Of Man's Desiring (feat. Lili Haydn)",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/14_Jesu,_Joy_Of_Man's_Desiring_(feat._Lili_Haydn)_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jesu, Joy of Man's Desiring (Featuring Lili Haydn)",
+      "artist": "Josh Groban",
+      "has_synced": true,
+      "path": "select/15_Jesu,_Joy_of_Man's_Desiring_(Featuring_Lili_Haydn)_Josh_Groban.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hi-Lili, Hi-Lo",
+      "artist": "Rickie Lee Jones",
+      "has_synced": false,
+      "path": "select/16_Hi-Lili,_Hi-Lo_Rickie_Lee_Jones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lili.",
+      "artist": "有機酸",
+      "has_synced": false,
+      "path": "select/pl_01_lili._有機酸.txt"
+    }
+  ]
+}
